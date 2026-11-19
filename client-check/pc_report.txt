@@ -1,0 +1,66 @@
+[3. Оперативная память]
+Всего памяти: 31,9 ГБ
+Свободно памяти: 23,5 ГБ
+----------------------------------------------------------
+
+[4. Диск C]
+Общий размер диска C: 0 ГБ
+Свободно на диске C: 0 ГБ
+----------------------------------------------------------
+
+[5. Установленное программное обеспечение]
+ - ﻿AMD DVR
+ - AMD Install Manager
+ - AMD Ryzen Master
+ - AMD Settings
+ - AMD Software
+ - AMD WVR64
+ - Branding64
+ - Display Driver Uninstaller
+ - Dota 2
+ - Epic Games Launcher Prerequisites (x64)
+ - GitHub Copilot CLI
+ - Happ - Proxy Utility 2.7.0(529)
+ - Java 8 Update 461 (64-bit)
+ - Microsoft .NET Host - 10.0.6 (x64)
+ - Microsoft .NET Host - 8.0.33 (x64)
+ - Microsoft .NET Host FX Resolver - 10.0.6 (x64)
+ - Microsoft .NET Host FX Resolver - 8.0.33 (x64)
+ - Microsoft .NET Runtime - 10.0.6 (x64)
+ - Microsoft .NET Runtime - 8.0.33 (x64)
+ - Microsoft Update Health Tools
+ - Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161
+ - Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219
+ - Microsoft Visual C++ 2022 X64 Additional Runtime - 14.51.36247
+ - Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.51.36247
+ - Microsoft Windows Application Compatibility Fix Database
+ - Microsoft Windows Desktop Runtime - 10.0.6 (x64)
+ - Microsoft Windows Desktop Runtime - 8.0.33 (x64)
+ - OpenRGB
+ - Paint the Town Red
+ - R.E.P.O.
+ - RyzenMasterSDK
+ - Sons Of The Forest
+ - TeamSpeak
+ - Terraria
+ - The Binding of Isaac: Rebirth
+ - Totally Accurate Battle Simulator
+ - Unigine Superposition Benchmark 1.1
+ - uTorria
+==========================================================
+
+[6. АУДИТ БАЗОВОГО ОФИСНОГО ПО]
+[РЕКОМЕНДАЦИЯ] Не обнаружен офисный пакет. Для работы с документами и таблицами рекомендуется установить LibreOffice или МойОфис.
+[РЕКОМЕНДАЦИЯ] Не обнаружен веб-браузер. Рекомендуется установить Яндекс Браузер или Google Chrome.
+[РЕКОМЕНДАЦИЯ] Не обнаружена программа для чтения PDF. Для работы с документами рекомендуется установить SumatraPDF или Foxit PDF Reader.
+[РЕКОМЕНДАЦИЯ] Не обнаружен архиватор. Для работы с вложениями в почте рекомендуется установить 7-Zip или WinRAR.
+[OK] Антивирус: сторонний клиент не найден, используется встроенный защитник Windows Defender (компонент ОС).
+----------------------------------------------------------
+
+[7. АУДИТ ИЗЛИШНЕГО ПО (РЕКОМЕНДАЦИИ К ПРОВЕРКЕ)]
+Примечание: вывод ниже не является указанием к удалению. Программа может использоваться по согласованию; решение принимает администратор.
+
+--- Группа 1: Игровое ПО и игровые платформы ---
+ [ПРОВЕРИТЬ] Epic Games Launcher Prerequisites (x64) — не относится к базовым офисным задачам и подлежит проверке.
+
+--- Группа 2: Торрент-клиенты и P2P-сети ---
